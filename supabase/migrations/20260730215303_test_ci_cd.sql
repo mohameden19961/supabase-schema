@@ -1,0 +1,1 @@
+comment on table todos is 'Table de test pour le workflow Supabase + GitHub';
